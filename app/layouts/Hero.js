@@ -46,7 +46,7 @@ export default function Hero() {
 
           <div className="hero-banner img-holder has-after" style={{width: '500px', height: '680px'}} data-tilt>
               <Img src="hero-banner.jpg" width="500" height="680" alt="Drew Hays" className="img-cover" />
-            </div>
+          </div>
 
             <span className="span title">Drew Hays</span>
 

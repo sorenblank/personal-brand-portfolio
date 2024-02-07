@@ -157,7 +157,7 @@ body {
   font-family: var(--fontFamily-roboto);
   font-size: var(--fontSize-8);
   line-height: 1.75;
-  overflow: hidden;
+  /* overflow: hidden; */
 }
 
 body.loaded { overflow-y: auto; }
@@ -236,9 +236,9 @@ body.nav-active { overflow: hidden; }
 }
 
 .img-cover {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
 }
 
 [data-tilt] { transition: var(--transition-3); }

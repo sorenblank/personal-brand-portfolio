@@ -1,5 +1,6 @@
 import "@/app/globals.css";
 import Preloader from "./components/Preloader";
+import CustomCursor from "./components/CustomCursor";
 
 export const metadata = {
   title: "Create Next App",
@@ -11,6 +12,7 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body id="top">
+        <CustomCursor />
         <Preloader />
         {children}
       </body>
