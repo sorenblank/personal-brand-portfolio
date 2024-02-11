@@ -10,6 +10,7 @@ import CTA from "@/app/layouts/CTA";
 import Projects from "@/app/layouts/Projects";
 import Testimonial from "./layouts/Testimonial";
 import Contact from "@/app/layouts/Contact";
+import { IoArrowUp } from "react-icons/io5";
 
 
 
@@ -38,8 +39,7 @@ export default function Home() {
 
       <a href="#top" className="back-top-btn">
         <span className="span">Back To Top</span>
-
-        <ion-icon name="arrow-up" aria-hidden="true"></ion-icon>
+        <IoArrowUp className="ion-icon" aria-hidden="true"/>
       </a>
 
     </div>
