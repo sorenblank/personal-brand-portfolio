@@ -18,9 +18,9 @@ export default function Testimonial() {
           </figure>
 
           <div>
-            <p className="title h5 card-title">Luna D.</p>
+            <p className="title h5 card-title">Rifa D.</p>
 
-            <p className="card-subtitle">Founder of Kappa Foundation</p>
+            <p className="card-subtitle">Founder of Kappa Arts</p>
           </div>
         </div>
 
