@@ -6,7 +6,7 @@ export default function CTA() {
             <div className="container">
 
                 <h2 className="title h2 section-title text-center">
-                    Let's Work Together On Your Next Project!
+                    {"Let's Work Together On Your Next Project!"}
                 </h2>
 
                 <a href="#" className="btn btn:hover">

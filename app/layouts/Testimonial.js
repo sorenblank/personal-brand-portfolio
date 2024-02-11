@@ -8,7 +8,7 @@ export default function Testimonial() {
       <div className="testi-content">
 
         <blockquote className="title h4 section-text">
-          &ldquo; Soren's Team has created our web app, curated marketing videos, and social media campaign for my non-profit. They were professional, creative, and responsive. I highly recommend them without any hesitation. Period.  &rdquo;
+          &ldquo; Soren&apos;s Team has created our web app, curated marketing videos, and social media campaign for my non-profit. They were professional, creative, and responsive. I highly recommend them without any hesitation. Period.  &rdquo;
         </blockquote>
 
         <div className="profile-card">

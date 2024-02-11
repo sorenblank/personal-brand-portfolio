@@ -42,7 +42,7 @@ export default function About() {
                   <div className="about-content">
 
                     <h2 className="h4 title section-title">
-                      I'm Soren D. Blank & <br /> I have the best team ever to help your business grow.
+                      I&apos;m Soren D. Blank & <br /> I have the best team ever to help your business grow.
                     </h2>
 
                     <p className="section-text">
@@ -97,7 +97,7 @@ export default function About() {
                   <div className="skill-content">
 
                     <h3 className="h4 title section-title">
-                      We've everything you need for your business to grow
+                      We&apos;ve everything you need for your business to grow
                     </h3>
 
                     <p className="section-text">
