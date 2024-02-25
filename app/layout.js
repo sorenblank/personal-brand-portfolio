@@ -6,7 +6,7 @@ export const metadata = {
   metadataBase: "https://next-personal-brand-portfolio.vercel.app",
   title: "Soren Blank",
   description: "I'm Soren D. Blank & I have a team of professionals who can help you grow your business. We offer web development, digital marketing, and graphics design services. We are professional, creative, and responsive. We are here to help you grow your business. Period.",
-  image: "https://next-vcard-portfolio.vercel.app/embed.png",
+  image: "https://next-vcard-portfolio.vercel.app/og-image.png",
   keywords: ["Soren", "Blank", "Soren D. Blank"],
   openGraph: {
 
